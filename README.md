@@ -112,10 +112,6 @@ Indicadores exibidos no menu 3:
 
 O menu 4 (e a saída) exporta tudo para `data/atendimentos.csv` com `csv.DictWriter`.
 
-## Integrações com outras disciplinas
-
-[PREENCHER: nenhuma / descreva, se houver]
-
 ## Fontes consultadas
 
 Todas as orientações têm fonte oficial e a data em que a equipe conferiu (`verificado_em`):
