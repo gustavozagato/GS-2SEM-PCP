@@ -8,9 +8,9 @@ Assistente de terminal em Python que responde dúvidas sobre **leis de trânsito
 
 | Nome | RM |
 |------|----|
-Gustavo Zagato Bottechia - 569420
-Davi Q. Zuolo - 571669
-Daniel Vilela Mana - 571632
+Gustavo Zagato Bottechia | 569420
+Davi Q. Zuolo | 571669
+Daniel Vilela Mana | 571632
 
 ## Público e problema escolhidos
 
@@ -131,17 +131,17 @@ Todas as orientações têm fonte oficial e a data em que a equipe conferiu (`ve
 
 | Indicador | Resultado |
 |-----------|-----------|
-| Pessoas testadas | [PREENCHER] |
-| Atendimentos | [PREENCHER] |
-| Resposta encontrada (%) | [PREENCHER] |
-| Taxa de acerto: ajudou (%) | [PREENCHER] |
-| Tempo médio para encontrar | [PREENCHER] |
-| Tentativas por atendimento | [PREENCHER] |
-| Facilidade de uso (1 a 5) | [PREENCHER] |
+| Pessoas testadas | 3 |
+| Atendimentos | 6 |
+| Resposta encontrada (%) | 83.3 |
+| Taxa de acerto: ajudou (%) | 50 |
+| Tempo médio para encontrar | 65.7 |
+| Tentativas por atendimento | 1.7 |
+| Facilidade de uso (1 a 5) | 4.5 |
 
-**Dúvidas sem solução:** [PREENCHER com a lista do menu 3]
+**Dúvidas sem solução:** Da pra burlar o bafômetro?  Posso avançar no sinal vermelho?  Qual o valor da multa de avançar o sinal vermelho?
 
-**Melhoria feita a partir do teste:** [PREENCHER — ex.: nova palavra-chave para uma dúvida que não foi encontrada]
+**Melhoria feita a partir do teste:** Nova palavra-chave e duvidas sobre: bafomêtro.
 
 ## Limitações
 
