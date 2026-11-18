@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "categoria": "Habilitação (CNH)",
+    "titulo": "Validade e renovação da CNH",
+    "palavras_chave": ["renovar cnh", "renovar a cnh", "renovar carteira", "renovacao da cnh", "renovacao", "renovar", "validade da cnh", "validade", "cnh vence", "habilitacao vencendo"],
+    "resposta": "A validade da CNH segue o exame médico: 10 anos para quem tem menos de 50 anos, 5 anos de 50 a 69 anos e 3 anos a partir dos 70 anos. O médico pode dar um prazo menor. Motoristas das categorias C, D e E também fazem o exame toxicológico. A lista exata de documentos e taxas pode mudar em cada estado.",
+    "documentos": ["Documento de identificação com foto", "CPF", "CNH atual", "Comprovante de residência (confirme no Detran do seu estado)"],
+    "onde": "Detran do seu estado (site, aplicativo ou posto) e clínica de trânsito credenciada para o exame médico",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 2,
+    "categoria": "Habilitação (CNH)",
+    "titulo": "Dirigir com a CNH vencida",
+    "palavras_chave": ["cnh vencida", "carteira vencida", "habilitacao vencida", "vencida", "vencimento da cnh", "cnh expirada"],
+    "resposta": "Dirigir com a CNH vencida há mais de 30 dias é infração gravíssima: multa de R$ 293,47 e 7 pontos na carteira. O ideal é renovar antes de vencer.",
+    "documentos": ["Documento de identificação com foto", "CPF", "CNH vencida"],
+    "onde": "Detran do seu estado (site, aplicativo ou posto de atendimento)",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 3,
+    "categoria": "Habilitação (CNH)",
+    "titulo": "Pontos na CNH e suspensão do direito de dirigir",
+    "palavras_chave": ["pontos na cnh", "pontos da cnh", "pontos", "pontuacao", "suspensao da cnh", "suspensao", "perder a cnh", "perder a carteira", "cnh suspensa"],
+    "resposta": "A CNH pode ser suspensa quando os pontos em 12 meses chegam a: 40 pontos (nenhuma infração gravíssima), 30 pontos (uma gravíssima) ou 20 pontos (duas ou mais gravíssimas). Quem dirige como profissão (EAR) tem limite fixo de 40 pontos.",
+    "documentos": ["Login na conta gov.br (para consultar seus pontos)"],
+    "onde": "Aplicativo Carteira Digital de Trânsito, portal gov.br ou Detran do seu estado",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/L14071.htm",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 4,
+    "categoria": "Habilitação (CNH)",
+    "titulo": "Consultar pontos e multas da CNH",
+    "palavras_chave": ["consultar multas", "consultar pontos", "ver minhas multas", "carteira digital de transito", "cnh digital", "saldo de pontos", "tenho multa"],
+    "resposta": "Você pode consultar suas infrações e pontos pelo aplicativo Carteira Digital de Trânsito ou pelo portal gov.br, fazendo login. A consulta mostra a data, o tipo da infração, a pontuação e a situação do processo.",
+    "documentos": ["Conta gov.br"],
+    "onde": "Aplicativo Carteira Digital de Trânsito ou portal gov.br",
+    "fonte": "https://www.gov.br/transportes/pt-br/assuntos/transito",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 5,
+    "categoria": "Multas",
+    "titulo": "Valores e pontos das multas de trânsito",
+    "palavras_chave": ["valor da multa", "valores das multas", "quanto custa a multa", "tipos de multa", "multa leve", "multa media", "multa grave", "multa gravissima", "valor multa"],
+    "resposta": "Os valores base são: leve R$ 88,38 (3 pontos), média R$ 130,16 (4 pontos), grave R$ 195,23 (5 pontos) e gravíssima R$ 293,47 (7 pontos). Algumas infrações gravíssimas têm o valor multiplicado (por 3, 5, 10 ou mais).",
+    "documentos": ["Nenhum documento é necessário para consultar"],
+    "onde": "Código de Trânsito Brasileiro (arts. 258 e 259); consulta de multas no Detran do seu estado",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 6,
+    "categoria": "Multas",
+    "titulo": "Como recorrer de uma multa de trânsito",
+    "palavras_chave": ["recorrer da multa", "recorrer de multa", "recurso de multa", "recurso", "recorrer", "defesa previa", "jari", "cetran", "contestar multa"],
+    "resposta": "O recurso tem 3 fases: defesa prévia (antes da multa ser aplicada), recurso à JARI e recurso ao CETRAN. O prazo está escrito na notificação e não pode ser menor que 30 dias. Não é preciso pagar a multa para recorrer. Se o recurso for negado, o valor deve ser pago.",
+    "documentos": ["Notificação da multa", "Documento de identificação com foto", "Provas, se houver (fotos, documentos)"],
+    "onde": "No órgão de trânsito que aplicou a multa (site, aplicativo ou presencial)",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 7,
+    "categoria": "Multas",
+    "titulo": "Desconto para pagar multa de trânsito",
+    "palavras_chave": ["desconto na multa", "desconto", "pagar multa", "pagar a multa", "pagamento da multa", "sne", "notificacao eletronica", "boleto da multa"],
+    "resposta": "Pagando até a data de vencimento, há desconto de 20%. Quem usa o Sistema de Notificação Eletrônica (SNE), pelo app Carteira Digital de Trânsito, pode ter desconto de 40%. Atenção: pagar com o desconto do SNE encerra o processo, então você não poderá mais recorrer.",
+    "documentos": ["Conta gov.br", "Boleto ou número da multa"],
+    "onde": "Aplicativo Carteira Digital de Trânsito ou site do órgão que aplicou a multa",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/L14071.htm",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 8,
+    "categoria": "Multas",
+    "titulo": "Celular ao volante: multa e pontos",
+    "palavras_chave": ["celular", "telefone", "mexer no celular", "usar o celular", "whatsapp", "fone de ouvido", "falar ao celular", "segurar o celular", "zap"],
+    "resposta": "Segurar ou mexer no celular enquanto dirige é infração gravíssima: multa de R$ 293,47 e 7 pontos. Dirigir com fones nos ouvidos ligados ao celular ou ao som é infração média: R$ 130,16 e 4 pontos.",
+    "documentos": ["Nenhum documento é necessário"],
+    "onde": "Regra do Código de Trânsito Brasileiro (art. 252); valem em todo o Brasil",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/L13281.htm",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 9,
+    "categoria": "Velocidade",
+    "titulo": "Multa por excesso de velocidade",
+    "palavras_chave": ["excesso de velocidade", "multa de velocidade", "multa por velocidade", "radar", "velocidade acima", "correndo", "passar do limite", "multa de radar"],
+    "resposta": "A multa depende de quanto você passou do limite da via: até 20% acima é infração média (R$ 130,16 e 4 pontos); de 20% a 50% acima é grave (R$ 195,23 e 5 pontos); mais de 50% acima é gravíssima (R$ 880,41, 7 pontos e suspensão do direito de dirigir).",
+    "documentos": ["Nenhum documento é necessário"],
+    "onde": "Regra do Código de Trânsito Brasileiro (art. 218); recursos no órgão que aplicou a multa",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 10,
+    "categoria": "Velocidade",
+    "titulo": "Limite de velocidade quando não há placa",
+    "palavras_chave": ["limite de velocidade", "velocidade maxima", "velocidade permitida", "sem placa", "sem sinalizacao", "quantos km", "via local", "via arterial"],
+    "resposta": "Sem placa, vale o Código de Trânsito. Nas cidades: 30 km/h em via local, 40 km/h em via coletora, 60 km/h em via arterial e 80 km/h em via de trânsito rápido. Nas rodovias: carros e motos 110 km/h (pista dupla) ou 100 km/h (pista simples); demais veículos 90 km/h. Estradas sem asfalto: 60 km/h. Se houver placa, vale a placa.",
+    "documentos": ["Nenhum documento é necessário"],
+    "onde": "Regra do Código de Trânsito Brasileiro (art. 61); a placa da via sempre vale mais",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 11,
+    "categoria": "Álcool ao volante",
+    "titulo": "Lei Seca: dirigir depois de beber",
+    "palavras_chave": ["lei seca", "bafometro", "dirigir bebado", "beber e dirigir", "alcool", "embriaguez", "blitz", "dirigir embriagado", "bebida"],
+    "resposta": "Dirigir sob efeito de álcool é infração gravíssima com multa multiplicada por 10 (R$ 2.934,70) e suspensão do direito de dirigir por 12 meses. Se repetir em até 12 meses, a multa dobra (R$ 5.869,40). A CNH é recolhida e, a partir de 0,34 mg/L no bafômetro, também pode haver processo criminal.",
+    "documentos": ["Documento de identificação com foto", "CNH"],
+    "onde": "Blitz de trânsito; defesa no órgão que aplicou a multa",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 12,
+    "categoria": "Álcool ao volante",
+    "titulo": "Recusar o teste do bafômetro",
+    "palavras_chave": ["recusar bafometro", "recusar o bafometro", "nao soprar", "recusa", "me recusei", "teste do bafometro", "etilometro"],
+    "resposta": "Ninguém é obrigado a soprar, mas a recusa tem as mesmas penalidades administrativas da Lei Seca: multa de R$ 2.934,70 e suspensão do direito de dirigir por 12 meses. Recusar o teste, por si só, não é crime.",
+    "documentos": ["Documento de identificação com foto", "CNH"],
+    "onde": "Blitz de trânsito; defesa no órgão que aplicou a multa",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 13,
+    "categoria": "Segurança no veículo",
+    "titulo": "Cinto de segurança é obrigatório",
+    "palavras_chave": ["cinto de seguranca", "cinto", "sem cinto", "passageiro sem cinto", "cinto traseiro", "banco de tras", "usar o cinto"],
+    "resposta": "O cinto vale para o motorista e para todos os passageiros, na frente e atrás. Quem não usa comete infração grave: multa de R$ 195,23 e 5 pontos. O veículo pode ficar retido até o cinto ser colocado.",
+    "documentos": ["Nenhum documento é necessário"],
+    "onde": "Regra do Código de Trânsito Brasileiro (art. 167); vale em todo o Brasil",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 14,
+    "categoria": "Segurança no veículo",
+    "titulo": "Cadeirinha: como transportar crianças no carro",
+    "palavras_chave": ["cadeirinha", "crianca no carro", "bebe conforto", "assento de elevacao", "crianca no banco da frente", "transportar crianca", "lei da cadeirinha", "bebe no colo"],
+    "resposta": "Crianças com menos de 10 anos e menos de 1,45 m devem ir no banco traseiro, com o equipamento certo para idade, peso e altura: bebê conforto (até 1 ano), cadeirinha (1 a 4 anos), assento de elevação (4 a 7 anos e meio) e cinto do carro (7 anos e meio a 10 anos). Siga também o limite do fabricante. Sem isso a infração é gravíssima: R$ 293,47, 7 pontos e veículo retido até corrigir. Há exceções na Resolução Contran 819/2021.",
+    "documentos": ["Nenhum documento é necessário"],
+    "onde": "Regra do Código de Trânsito Brasileiro (art. 168) e Resolução Contran nº 819/2021",
+    "fonte": "https://www.gov.br/transportes/pt-br/assuntos/transito",
+    "verificado_em": "2026-11-14"
+  }
+]
