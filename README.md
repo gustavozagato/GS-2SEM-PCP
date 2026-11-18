@@ -153,4 +153,4 @@ Todas as orientações têm fonte oficial e a data em que a equipe conferiu (`ve
 
 ## Vídeo técnico
 
-[PREENCHER: link do YouTube (não listado)]
+https://youtu.be/Djye6X7pX4M
