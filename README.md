@@ -29,7 +29,7 @@ Daniel Vilela Mana | 571632
 Requisitos: Python 3.8 ou mais novo. **Não usa bibliotecas externas.**
 
 ```bash
-git clone <link-do-repositorio>
+git clone https://github.com/gustavozagato/GS-2SEM-PCP.git
 cd citizen-assist-ai
 python main.py
 ```
